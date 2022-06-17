@@ -51,7 +51,6 @@ def plan(T):
 ...
 która przyjmuje tablicę z opisem pół T[0], . . ., T[n-1] i zwraca listę pól, na których należy się zatrzymać w celu zebrania ropy. Lista powinna być posortowana w kolejności postojów. Postój na polu 0 również jest częścią rozwiązania.
 Przykład. Dla wejścia:
-# 0 1 2 3 4 5 6 7
 T = [3,0,2,1,0,2,5,0]
 wynikiem jest np. lista [0,2,5].
 
