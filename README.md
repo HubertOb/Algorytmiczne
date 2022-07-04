@@ -338,6 +338,8 @@ Mamy n pudełek ponumerowanych 0, 1, . . . , n−1. i-te pudełko zawiera red[i]
 #### zad66.
 Mamy do dyspozycji jednorejestrowa maszyne cyfrowa, której jedyny rejestr moze przechowac dowolna liczbe całkowita nieujemna. Jezyk programowania maszyny ma cztery instrukcje: ’+’, ’-’, ’*’ i ’/’. Kazda z tych instrukcji wykonuje odpowiednia operacje uzywajac zawartosci rejestru jako obu swoich operandów. Po wykonaniu operacji wynik wpisywany jest z powrotem do rejestru (nadpisujac jego poprzednia zawartosc). Program dla naszej maszyny to napis składajacy sie z zera lub wiecej instrukcji. Majac dane dwie liczby całkowite s i t, utwórz najkrótszy program, po wykonaniu którego rejestr bedzie zawierał wartosc t, jezeli poczatkowa wartoscia rejestru było s. Jezeli istnieje wiecej niz jeden najkrótszy program, zwróc leksykograficznie najmniejszy. Jezeli z wartosci s nie da sie uzyskac t w skonczonej liczbie kroków, wypisz NO.
 
+#### zad67.
+Implementacja drzewa BST i operacji: wstawiania, usuwania, znajdowanie minimum i maksimum, znajdowanie nastepnika i poprzednika.
 
 
 
